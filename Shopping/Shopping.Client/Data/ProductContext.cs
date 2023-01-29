@@ -8,7 +8,7 @@ namespace Shopping.Client.Data
         {
             new Product()
             {
-                Name = "IPhone XR",
+                Name = "IPhone XRA",
                 Description =
                     "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                 ImageFile = "product-1.png",
